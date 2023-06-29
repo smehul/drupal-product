@@ -1,0 +1,8 @@
+name: Custom rest API
+type: module
+description: 'Code sample for custom rest API'
+core_version_requirement: '^9 || ^10'
+package: Authentication
+dependencies:
+  - simple_oauth
+  - restui
